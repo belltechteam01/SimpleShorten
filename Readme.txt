@@ -1,0 +1,4 @@
+- test purpose
+- bitly api
+- vuejs
+- vuex & redux
